@@ -1,0 +1,99 @@
+#box1 {
+  color: rgb(20, 17, 18);
+  border-color: rgb(49, 49, 50);
+  width: 800px;
+  background-color: rgb(244, 235, 235);
+  box-shadow: -10px;
+  border-radius: 25px;
+  padding: 20px;
+  float: left;
+  font-size: 20px;
+  margin: 50px;
+  font-style: inherit;
+}
+
+ul {
+  list-style: none;
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+ul li a {
+  display: inline !important;
+  list-style: none;
+  color: blueviolet;
+}
+
+a:link,
+a:visited {
+  color: rgb(230, 90, 35);
+  border: rgb(128, 0, 119);
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+}
+
+a:hover,
+a:active {
+  background-color: rgb(179, 224, 95);
+  color: rgb(22, 4, 4);
+}
+h1 {
+  color: rgb(55, 29, 158);
+  padding: 20px 20px;
+  display: inline-block;
+}
+table {
+  color: rgb(23, 7, 104);
+  width: 900px;
+  border: 1px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: 1px solid #d4d4d4;
+  background-color: #ffffff;
+  font-weight: normal;
+  color: #555555;
+  padding: 11px 11px;
+  vertical-align: middle;
+  font-family: "Courier New", Courier, monospace;
+}
+#frm {
+  color: rgb(19, 2, 86);
+  width: 700px;
+  background-color: rgb(240, 249, 240);
+  border-radius: 25px;
+  padding: 20px;
+  font-size: 20px;
+  margin: 50px;
+  font-style: inherit;
+}
+#tchk {
+  color: rgb(15, 13, 26);
+  width: 700px;
+  background-color: rgb(245, 242, 245);
+  border-radius: 25px;
+  padding: 20px;
+  font-size: 20px;
+  margin: 50px;
+  font-style: inherit;
+}
+h3 {
+  color: rgb(43, 9, 147);
+  padding: 20px 20px;
+  display: inline-block;
+}
+
+#form {
+  width: 800px;
+  background-color: rgba(226, 237, 237, 0.988);
+
+  border-radius: 25px;
+}
+#tableau {
+  border-color: aquamarine;
+  font-style: italic;
+}
